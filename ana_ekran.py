@@ -18,7 +18,11 @@ def anamenu():
         secim = input("Seçiminiz nedir: ")
         if secim=="1":
             import moduller.yeni_arac_kaydi_ekle
-            moduller.yeni_arac_kaydı_ekle.yeni_arac_ekle()
+            moduller.yeni_arac_kaydi_ekle.yeni_arac_ekle()
+
+        if secim=="2":
+            import moduller.arac_listesi_goster
+            moduller.arac_listesi_goster.arac_goster()
 
         elif secim == "10":
             print("Çıkış Yaptınız...")
