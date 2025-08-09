@@ -24,6 +24,19 @@ def anamenu():
             import moduller.arac_listesi_goster
             moduller.arac_listesi_goster.arac_goster()
 
+        if secim=="3":
+            import moduller.arac_arama
+            moduller.arac_arama.arac_ara()
+
+        if secim=="4":
+            import moduller.arac_kaydi_sil
+            moduller.arac_kaydi_sil.kayit_sil()
+
+        if secim=="5":
+            import moduller.arac_bilgilerini_guncelle
+            moduller.arac_bilgilerini_guncelle.guncelleme()
+         
+
         elif secim == "10":
             print("Çıkış Yaptınız...")
             break
