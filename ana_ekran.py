@@ -3,7 +3,7 @@ def anamenu():
         print("╔══════════════════════════════════╗")
         print("║     ARAÇ MUAYENE TAKİP SİSTEMİ   ║")
         print("║                                  ║")
-        print("║  1-Yeni Araç Kaydı Ekle          ║")
+        print("║  1-Yeni Araç Kaydı Ekle +         ║")
         print("║  2-Araç Listesini Göster         ║")
         print("║  3-Araç Ara                      ║")
         print("║  4-Araç Kaydını Sil              ║")
@@ -22,7 +22,7 @@ def anamenu():
 
         if secim=="2":
             import moduller.arac_listesi_goster
-            moduller.arac_listesi_goster.arac_goster()
+            moduller.arac_listesi_goster.arac_listesi()
 
         if secim=="3":
             import moduller.arac_arama
@@ -35,9 +35,20 @@ def anamenu():
         if secim=="5":
             import moduller.arac_bilgilerini_guncelle
             moduller.arac_bilgilerini_guncelle.guncelleme()
-         
 
-        elif secim == "10":
+        if secim=="6":
+            import moduller.muayene_sonucu
+            moduller.muayene_sonucu.muayene()  
+
+        if secim=="7":
+            import moduller.yaklasan_muayene_goster
+            moduller.yaklasan_muayene_goster.yaklasan_muayene()  
+
+        if secim=="8":
+            import moduller.arac_sahibi_notlari
+            moduller.arac_sahibi_notlari.sahip_notlari()   
+        
+        elif secim == "9":
             print("Çıkış Yaptınız...")
             break
 
