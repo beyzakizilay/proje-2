@@ -22,7 +22,7 @@ Her işlev ayrı modüllerle organize edilmiştir, bu sayede kod okunabilir ve y
 </a>
 
 ## Anamenü    
-<img height="300" src="ekran_resimleri/ekran_resimleri/Ekran görüntüsü 2025-08-15 194546.png">
+<img height="300" src="ekran_resimleri/Ekran görüntüsü 2025-08-15 194546.png">
 <p>Ana menüden çalıştırmak istediğiniz uygulamayı seçiniz.<p>
 <p>-----------------------------------------<p>
 
