@@ -9,9 +9,8 @@ def anamenu():
         print("║  4-Araç Kaydını Sil              ║")
         print("║  5-Araç Bilgilerini Güncelle     ║")
         print("║  6-Muayene Sonucu Ekle/Güncelle  ║")
-        print("║  7-Yaklaşan Muayeneleri Göster   ║")
-        print("║  8-Araç Sahibi Notları           ║")
-        print("║  9-Çıkış                         ║")
+        print("║  7-Araç Sahibi Notları           ║")
+        print("║  8-Çıkış                         ║")
         print("║     Tercihiniz Nedir?            ║")
         print("╚══════════════════════════════════╝")
 
@@ -38,17 +37,13 @@ def anamenu():
 
         elif secim=="6":
             import moduller.muayene_sonucu
-            moduller.muayene_sonucu.muayene()  
+            moduller.muayene_sonucu.muayene()    
 
         elif secim=="7":
-            import moduller.yaklasan_muayene_goster
-            moduller.yaklasan_muayene_goster.yaklasan_muayene()  
-
-        elif secim=="8":
             import moduller.arac_sahibi_notlari
             moduller.arac_sahibi_notlari.sahip_notlari()   
         
-        elif secim == "9":
+        elif secim == "8":
             print("Çıkış Yaptınız...")
             break
 
