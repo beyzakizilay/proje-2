@@ -1,5 +1,6 @@
-Dosya_Adı="araclar.txt" 
+Dosya_Adı="Liste.txt" 
 def arac_ara():
+    print("\nARAÇ ARAMA")
     anahtar=input("Plaka veya sahibi adı girin: ").lower()
     bulundu=False
     with open (Dosya_Adı,"r") as dosya:

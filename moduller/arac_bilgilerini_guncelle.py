@@ -1,19 +1,32 @@
-Dosya_Adı="araclar.txt"
+Dosya_Adı = "Liste.txt"
 def guncelleme():
-    plaka=input("Güncellenecek plakayı girin: ")
-    satirlar=[]
-    bulundu=False
-    with open(Dosya_Adı,"r") as dosya:
-        for satir in dosya:
-            if satir.startswith(plaka):
-                print("Eski kayıt:",satir.strip())
-                yeni_tel=input("Yeni telefon: ")
-                yeni_satir=satir.strip().split(",")
-                yeni_satir[5]=yeni_tel
-                satirlar.append(",".join(yeni_satir)+"\n")
-                bulundu=True
-            else:
-                satirlar.append(satir)
-    with open (Dosya_Adı,"w")as dosya:
-        print(f"{satirlar}")
-    print("Güncellendi.")               
+    plaka = input("Güncellenecek plakayı girin: ").upper()
+    bulundu = False
+    yeni_liste = []
+    try:
+        with open(Dosya_Adı, "r", encoding="utf-8") as dosya:
+            for satir in dosya:
+                veri = satir.strip().split(",")
+                if plaka == veri[0].upper():
+                    bulundu = True
+                    print("Mevcut kayıt:", satir.strip())
+                    marka = input("Yeni Marka: ")
+                    model = input("Yeni Model: ")
+                    yil = input("Yeni Yıl: ")
+                    sahip = input("Yeni Sahip: ")
+                    telefon = input("Yeni Telefon: ")
+                    muayene = input("Yeni Muayene Tarihi (GG-AA-YYYY): ")
+                    durum = input("Yeni Durum: ")
+                    satir = f"{plaka},{marka},{model},{yil},{sahip},{telefon},{muayene},{durum}\n"
+                    print("Güncellenen kayıt:", satir.strip())
+                yeni_liste.append(satir)
+        if not bulundu:
+            print("Güncellenecek kayıt bulunamadı!")
+        else:
+            with open(Dosya_Adı, "w", encoding="utf-8") as dosya:
+                dosya.writelines(yeni_liste)
+            print("Güncelleme tamamlandı!")
+    except FileNotFoundError:
+        print(f"{Dosya_Adı} dosyası bulunamadı!")
+
+

@@ -1,4 +1,4 @@
-Dosya_Adı="araclar.txt"
+Dosya_Adı="Liste.txt"
 from datetime import datetime
 def yaklasan_muayene():
     print("\n[Yaklaşan Muayeneler]")

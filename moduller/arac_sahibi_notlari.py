@@ -1,4 +1,4 @@
-Dosya_Adı="araclar.txt"
+Dosya_Adı="Liste.txt"
 
 def sahip_notlari():
     plaka = input("Not eklenecek plakayı girin: ")

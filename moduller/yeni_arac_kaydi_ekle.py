@@ -1,5 +1,5 @@
 import os
-Dosya_Adı="araclar.txt"
+Dosya_Adı="Liste.txt"
 def yeni_arac_ekle():
     print("\nARAÇ KAYIT")
     plaka=input("Plaka: ")

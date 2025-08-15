@@ -1,5 +1,6 @@
-Dosya_Adı="araclar.txt"
+Dosya_Adı="Liste.txt"
 def kayit_sil():
+    print("\nARAÇ KAYDI SİLME")
     plaka=input("Silinecek aracın palaksı: ")
     satirlar=[]
     bulundu=False

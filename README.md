@@ -18,8 +18,6 @@
 - Programdan çıkış
 
 Her işlev ayrı modüllerle organize edilmiştir, bu sayede kod okunabilir ve yönetilebilir.<p>
-<a href="https://drive.google.com/file/d/1mEtbtX0W-8PqAEl-roZ4Fwt3VhkaVwmN/view?usp=sharing">Videoyu izlemek için tıklayınız...
-</a>
 
 ## Anamenü    
 <img height="300" src="ekran_resimleri/Ekran görüntüsü 2025-08-15 194546.png">
@@ -27,22 +25,22 @@ Her işlev ayrı modüllerle organize edilmiştir, bu sayede kod okunabilir ve y
 <p>-----------------------------------------<p>
 
 ## 1.Yeni Araç Kaydı Ekle
-<img height="300" src="ekran_resimleri/Ekran görüntüsü 2025-07-23 223450.png">
+<img height="300" src="ekran_resimleri/Ekran görüntüsü 2025-08-15 201355.png">
 <p>Yeni araç bilgilerini (plaka, marka, model, yıl, sahip, telefon) girerek sisteme kaydedebilirsiniz. Bu kayıtlar ileride güncelleme veya muayene takibi için kullanılacaktır.<p>
 <p>-----------------------------------------<p>
 
 ## 2.Araç Listesini Göster
-<img height="300" src="ekran_resimleri/Ekran görüntüsü 2025-07-23 223632.png">
+<img height="300" src="ekran_resimleri/Ekran görüntüsü 2025-08-15 202504.png">
 <p>Tüm kayıtlı araçları listeleyebilir, araç bilgilerini hızlıca görüntüleyebilirsiniz.<p>
 <p>-----------------------------------------<p>
 
 ## 3.Araç Ara
-<img height="300" src="ekran_resimleri/Ekran görüntüsü 2025-07-23 223712.png">
+<img height="300" src="ekran_resimleri/Ekran görüntüsü 2025-08-15 203119.png">
 <p>Plaka veya araç sahibine göre arama yaparak istediğiniz araç bilgilerine kolayca ulaşabilirsiniz.<p>
 <p>-----------------------------------------<p>
 
 ## 4.Araç Kaydını Sil
-<img height="300" src="ekran_resimleri/Ekran görüntüsü 2025-07-23 223735.png">
+<img height="300" src="ekran_resimleri/Ekran görüntüsü 2025-08-15 203846.png">
 <p>Hatalı veya gereksiz araç kayıtlarını sistemden silebilirsiniz. Silinen kayıtlar geri alınamaz, dikkatli kullanılmalıdır.<p>
 <p>-----------------------------------------<p>
 

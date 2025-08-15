@@ -1,0 +1,6 @@
+34ABC123,Toyota,Corolla,2020,Ahmet Yılmaz,05551234567,04-04-2025,Bekliyor
+34DEF789,Renault,Clio,2016,Mehmet Kaya,05321234567,20-08-2025,Bekliyor
+35GHI101,Opel,Astra,2021,Elif Çelik,05552345678,10-10-2025,Geçti
+06JKL202,Volkswagen,Golf,2018,Can Yıldız,05553456789,05-09-2025,Bekliyor
+06XYZ456,Ford,Focus,2019,Ayşe Demir,05559876543,15-09-2025,Bekliyor
+

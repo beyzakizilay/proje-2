@@ -1,4 +1,4 @@
-Dosya_Adı="araclar.txt"
+Dosya_Adı="Liste.txt"
 def muayene():
     plaka = input("Plaka girin: ")
     satirlar = []
@@ -17,3 +17,4 @@ def muayene():
     with open(Dosya_Adı, "w") as dosya:
         dosya.writelines(satirlar)
     print("Sonuç güncellendi." if bulundu else "Plaka bulunamadı.")
+
