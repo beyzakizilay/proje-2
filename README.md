@@ -54,12 +54,7 @@ Her işlev ayrı modüllerle organize edilmiştir, bu sayede kod okunabilir ve y
 <p>Araçların muayene sonuçlarını ekleyebilir veya güncelleyebilirsiniz. Yaklaşan muayene tarihleri ve sonuçlar sistemde saklanır<p>
 <p>-----------------------------------------<p>
 
-## 7.Yaklaşan Muayeneleri Göster
-<img height="300" src="ekran_resimleri/Ekran görüntüsü 2025-07-23 224638.png">
-<p>Yaklaşan muayeneleri listeleyerek, gecikmeleri önceden görüp önlem alabilirsiniz.<p>
-<p>-----------------------------------------<p>
-
-## 8.Araç Sahibi Notları
+## 7..Araç Sahibi Notları
 <img height="300" src="ekran_resimleri/Ekran görüntüsü 2025-08-15 211510.png">
 <p>Araç sahipleri veya sistem yöneticileri için not ekleyebilir, mevcut notları görüntüleyebilirsiniz. Önemli bilgiler kolayca takip edilir<p>
 <p>-----------------------------------------<p>
