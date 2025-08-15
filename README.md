@@ -26,50 +26,48 @@ Her işlev ayrı modüllerle organize edilmiştir, bu sayede kod okunabilir ve y
 <p>Ana menüden çalıştırmak istediğiniz uygulamayı seçiniz.<p>
 <p>-----------------------------------------<p>
 
-## 1.Roket Fırlatma İstasyonu
+## 1.Yeni Araç Kaydı Ekle
 <img height="300" src="ekran_resimleri/Ekran görüntüsü 2025-07-23 223450.png">
-<p>Roket Fırlatma İstasyonunda yapmak istediğiniz işlemi seçin ve istenilen bilgileri doğru şekilde girin.<p>
+<p>Yeni araç bilgilerini (plaka, marka, model, yıl, sahip, telefon) girerek sisteme kaydedebilirsiniz. Bu kayıtlar ileride güncelleme veya muayene takibi için kullanılacaktır.<p>
 <p>-----------------------------------------<p>
 
-## Yapay Zeka Laboratuarı
+## 2.Araç Listesini Göster
 <img height="300" src="ekran_resimleri/Ekran görüntüsü 2025-07-23 223632.png">
-<p>Yapay Zeka Laboratuarında yapmak istediğiniz işlemi seçin ve istenilen bilgileri doğru şekilde girin.<p>
+<p>Tüm kayıtlı araçları listeleyebilir, araç bilgilerini hızlıca görüntüleyebilirsiniz.<p>
 <p>-----------------------------------------<p>
 
-## Bilimsel Hesap Merkezi
+## 3.Araç Ara
 <img height="300" src="ekran_resimleri/Ekran görüntüsü 2025-07-23 223712.png">
-<p>Bilimsel Hesap Merkezinde yapmak istediğiniz işlemi seçin ve istenilen bilgileri doğru şekilde girin.<p>
+<p>Plaka veya araç sahibine göre arama yaparak istediğiniz araç bilgilerine kolayca ulaşabilirsiniz.<p>
 <p>-----------------------------------------<p>
 
-## Holografik Çizim Alanı
+## 4.Araç Kaydını Sil
 <img height="300" src="ekran_resimleri/Ekran görüntüsü 2025-07-23 223735.png">
-<p>Holografik Çizim Alanında yapmak istediğiniz işlemi seçin ve istenilen bilgileri doğru şekilde girin.<p>
+<p>Hatalı veya gereksiz araç kayıtlarını sistemden silebilirsiniz. Silinen kayıtlar geri alınamaz, dikkatli kullanılmalıdır.<p>
 <p>-----------------------------------------<p>
 
-## Uzay Günlüğü
+## 5.Araç Bilgilerini Güncelle
 <img height="300" src="ekran_resimleri/Ekran görüntüsü 2025-07-23 223804.png">
-<p>Uzay Günlüğünde yapmak istediğiniz işlemi seçin ve istenilen bilgileri doğru şekilde girin.<p>
+<p>Mevcut araç bilgilerini güncelleyebilir, eksik veya hatalı verileri düzeltebilirsiniz. Böylece sistem her zaman güncel kalır<p>
 <p>-----------------------------------------<p>
 
-## Keşifler
+## 6.Muayene Sonucu Ekle/Güncelle
 <img height="300" src="ekran_resimleri/Ekran görüntüsü 2025-07-23 224604.png">
-<p>Keşiflerde yapmak istediğiniz işlemi seçin ve istenilen bilgileri doğru şekilde girin.<p>
+<p>Araçların muayene sonuçlarını ekleyebilir veya güncelleyebilirsiniz. Yaklaşan muayene tarihleri ve sonuçlar sistemde saklanır<p>
 <p>-----------------------------------------<p>
 
-## Nano Teknoloji Odası
+## 7.Yaklaşan Muayeneleri Göster
 <img height="300" src="ekran_resimleri/Ekran görüntüsü 2025-07-23 224638.png">
-<p>Nano Teknoloji Odasında yapmak istediğiniz işlemi seçin ve istenilen bilgileri doğru şekilde girin.<p>
+<p>Yaklaşan muayeneleri listeleyerek, gecikmeleri önceden görüp önlem alabilirsiniz.<p>
 <p>-----------------------------------------<p>
 
-## Zaman Bükücü
+## 8.Araç Sahibi Notları
 <img height="300" src="ekran_resimleri/Ekran görüntüsü 2025-07-23 224708.png">
-<p>Zaman Bükücüde yapmak istediğiniz işlemi seçin ve istenilen bilgileri doğru şekilde girin.<p>
+<p>Araç sahipleri veya sistem yöneticileri için not ekleyebilir, mevcut notları görüntüleyebilirsiniz. Önemli bilgiler kolayca takip edilir<p>
 <p>-----------------------------------------<p>
 
-## Galaksi Haritası
+## 9.Çıkış
 <img height="300" src="ekran_resimleri/Ekran görüntüsü 2025-07-23 224724.png">
-<p>Galaksi Haritasında yapmak istediğiniz işlemi seçin ve istenilen bilgileri doğru şekilde girin.<p>
+<p>Programdan güvenli bir şekilde çıkış yapabilirsiniz. Tüm veriler kaydedilmiş olarak korunur<p>
 <p>-----------------------------------------<p>
 
-## Çıkış
-<img height="300" src="ekran_resimleri/Ekran görüntüsü 2025-07-23 224736.png">
