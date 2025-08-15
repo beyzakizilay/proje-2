@@ -64,8 +64,5 @@ Her işlev ayrı modüllerle organize edilmiştir, bu sayede kod okunabilir ve y
 <p>Araç sahipleri veya sistem yöneticileri için not ekleyebilir, mevcut notları görüntüleyebilirsiniz. Önemli bilgiler kolayca takip edilir<p>
 <p>-----------------------------------------<p>
 
-## 9.Çıkış
-<img height="300" src="ekran_resimleri/Ekran görüntüsü 2025-07-23 224724.png">
-<p>Programdan güvenli bir şekilde çıkış yapabilirsiniz. Tüm veriler kaydedilmiş olarak korunur<p>
-<p>-----------------------------------------<p>
+
 
