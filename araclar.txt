@@ -1,4 +1,4 @@
-34ABC123,Renault,Clio,2016,Ahmet Kaya,05321234567,2025-08-16,Bekliyor,Yað deðiþimi yapýldý.
+34ABC123,Renault,Clio,2016,Ahmet Kaya,05321234567,2025-08-16,Bekliyor,
 34DEF456,Toyota,Corolla,2020,AyÅŸe YÄ±lmaz,05551234567,2025-08-18,Bekliyor,
 06XYZ456,Ford,Focus,2019,Mehmet Demir,05559876543,2025-08-20,Bekliyor,
 35LMN789,Opel,Astra,2018,Elif Kaya,05327654321,2025-08-22,Bekliyor,

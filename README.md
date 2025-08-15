@@ -50,7 +50,7 @@ Her işlev ayrı modüllerle organize edilmiştir, bu sayede kod okunabilir ve y
 <p>-----------------------------------------<p>
 
 ## 6.Muayene Sonucu Ekle/Güncelle
-<img height="300" src="ekran_resimleri/Ekran görüntüsü 2025-07-23 224604.png">
+<img height="300" src="ekran_resimleri/Ekran görüntüsü 2025-08-15 210722.png">
 <p>Araçların muayene sonuçlarını ekleyebilir veya güncelleyebilirsiniz. Yaklaşan muayene tarihleri ve sonuçlar sistemde saklanır<p>
 <p>-----------------------------------------<p>
 
@@ -60,7 +60,7 @@ Her işlev ayrı modüllerle organize edilmiştir, bu sayede kod okunabilir ve y
 <p>-----------------------------------------<p>
 
 ## 8.Araç Sahibi Notları
-<img height="300" src="ekran_resimleri/Ekran görüntüsü 2025-07-23 224708.png">
+<img height="300" src="ekran_resimleri/Ekran görüntüsü 2025-08-15 211510">
 <p>Araç sahipleri veya sistem yöneticileri için not ekleyebilir, mevcut notları görüntüleyebilirsiniz. Önemli bilgiler kolayca takip edilir<p>
 <p>-----------------------------------------<p>
 
