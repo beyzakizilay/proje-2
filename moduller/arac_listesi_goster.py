@@ -6,6 +6,7 @@ def arac_listesi():
         with open(Dosya_Adı, "r") as dosya:
             for sira, satir in enumerate(dosya, 1):
                 veri = satir.strip().split(",")
-                print(sira, veri)
+                print(f"{sira}) {veri}")
     except FileNotFoundError:
         print("Liste.txt dosyası bulunamadı!")
+arac_listesi()

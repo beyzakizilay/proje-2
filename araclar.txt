@@ -1,0 +1,2 @@
+34ABC123,Renault,Clio,2016,Ahmet Kaya,05321234567,2025-08-16,Bekliyor,
+06XYZ789,Ford,Focus,2018,Mehmet Demir,05443332211,2025-08-21,Bekliyor,

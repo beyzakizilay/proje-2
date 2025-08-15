@@ -3,7 +3,7 @@ def anamenu():
         print("╔══════════════════════════════════╗")
         print("║     ARAÇ MUAYENE TAKİP SİSTEMİ   ║")
         print("║                                  ║")
-        print("║  1-Yeni Araç Kaydı Ekle +         ║")
+        print("║  1-Yeni Araç Kaydı Ekle          ║")
         print("║  2-Araç Listesini Göster         ║")
         print("║  3-Araç Ara                      ║")
         print("║  4-Araç Kaydını Sil              ║")
@@ -20,31 +20,31 @@ def anamenu():
             import moduller.yeni_arac_kaydi_ekle
             moduller.yeni_arac_kaydi_ekle.yeni_arac_ekle()
 
-        if secim=="2":
+        elif secim=="2":
             import moduller.arac_listesi_goster
             moduller.arac_listesi_goster.arac_listesi()
 
-        if secim=="3":
+        elif secim=="3":
             import moduller.arac_arama
             moduller.arac_arama.arac_ara()
 
-        if secim=="4":
+        elif secim=="4":
             import moduller.arac_kaydi_sil
             moduller.arac_kaydi_sil.kayit_sil()
 
-        if secim=="5":
+        elif secim=="5":
             import moduller.arac_bilgilerini_guncelle
             moduller.arac_bilgilerini_guncelle.guncelleme()
 
-        if secim=="6":
+        elif secim=="6":
             import moduller.muayene_sonucu
             moduller.muayene_sonucu.muayene()  
 
-        if secim=="7":
+        elif secim=="7":
             import moduller.yaklasan_muayene_goster
             moduller.yaklasan_muayene_goster.yaklasan_muayene()  
 
-        if secim=="8":
+        elif secim=="8":
             import moduller.arac_sahibi_notlari
             moduller.arac_sahibi_notlari.sahip_notlari()   
         
