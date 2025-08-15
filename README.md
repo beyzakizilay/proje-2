@@ -60,7 +60,7 @@ Her işlev ayrı modüllerle organize edilmiştir, bu sayede kod okunabilir ve y
 <p>-----------------------------------------<p>
 
 ## 8.Araç Sahibi Notları
-<img height="300" src="ekran_resimleri/Ekran görüntüsü 2025-08-15 211510">
+<img height="300" src="ekran_resimleri/Ekran görüntüsü 2025-08-15 211510.png">
 <p>Araç sahipleri veya sistem yöneticileri için not ekleyebilir, mevcut notları görüntüleyebilirsiniz. Önemli bilgiler kolayca takip edilir<p>
 <p>-----------------------------------------<p>
 
