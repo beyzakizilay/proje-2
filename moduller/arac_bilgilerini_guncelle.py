@@ -5,7 +5,8 @@ def guncelleme():
     yeni_liste = []
     try:
         with open(Dosya_Adı, "r", encoding="utf-8") as dosya:
-            for satir in dosya:
+            okunan=dosya.read()
+            for satir in okunan:
                 veri = satir.strip().split(",")
                 if plaka == veri[0].upper():
                     bulundu = True
@@ -19,6 +20,7 @@ def guncelleme():
                     durum = input("Yeni Durum: ")
                     satir = f"{plaka},{marka},{model},{yil},{sahip},{telefon},{muayene},{durum}\n"
                     print("Güncellenen kayıt:", satir.strip())
+
                 yeni_liste.append(satir)
         if not bulundu:
             print("Güncellenecek kayıt bulunamadı!")
