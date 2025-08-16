@@ -50,7 +50,7 @@ Her işlev ayrı modüllerle organize edilmiştir, bu sayede kod okunabilir ve y
 <p>-----------------------------------------<p>
 
 ## 5.Araç Bilgilerini Güncelle
-<img height="300" src="ekran_resimleri/Ekran görüntüsü 2025-07-23 223804.png">
+<img height="300" src="ekran_resimleri/Ekran görüntüsü 2025-08-16 110205.png">
 <p>Mevcut araç bilgilerini güncelleyebilir, eksik veya hatalı verileri düzeltebilirsiniz. Böylece sistem her zaman güncel kalır<p>
 <p>-----------------------------------------<p>
 
