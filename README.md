@@ -20,8 +20,9 @@
 Her işlev ayrı modüllerle organize edilmiştir, bu sayede kod okunabilir ve yönetilebilir.<p>
 
 ## Exe Dosyası
-<p>Exe dosyasına ulaşmak için tıklayın.<p>
-<a href="https://drive.google.com/file/d/1EszO9RdTTV7UCIQ0iCSFo0wvzsQCDW8N/view?usp=sharing">
+---------------------
+<a href="https://drive.google.com/file/d/1EszO9RdTTV7UCIQ0iCSFo0wvzsQCDW8N/view?usp=sharing">Exe dosyasına ulaşmak için tıklayınız...</a>
+
 
 ## Anamenü    
 <img height="300" src="ekran_resimleri/Ekran görüntüsü 2025-08-15 194546.png">
